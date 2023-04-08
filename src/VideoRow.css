@@ -1,0 +1,34 @@
+.video-row{
+   display: flex;
+   margin-bottom: 30px;
+   max-width: 700px;
+}
+
+.video-row-image{
+   height: 138px ;
+   width: 246px ;
+   object-fit: contain;
+}
+
+.video-row-text{
+   margin-left: 14px;
+}
+
+.video-row-description{
+   margin-top: 20px;
+   font-size: 12px;
+   color: #606060;
+}
+
+.video-row-headline{
+   font-size: 12px;
+   color: #606060;
+}
+.video-row-subsnumber{
+   font-weight: bolder;
+   color: rgb(84, 157, 211);
+}
+.video-row-subs{
+   background-color: lightgray;
+   padding: 2px;
+}
